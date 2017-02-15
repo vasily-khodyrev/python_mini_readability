@@ -1,0 +1,7 @@
+WebArticleParserCLI.exe -c webarticleparser.ini -a http://lenta.ru/news/2013/03/dtp/index.html
+WebArticleParserCLI.exe -c webarticleparser.ini -a https://lenta.ru/news/2017/02/11/maroder/ 
+WebArticleParserCLI.exe -c webarticleparser.ini -a https://lenta.ru/news/2017/02/10/polygon/
+WebArticleParserCLI.exe -c webarticleparser.ini -a https://russian.rt.com/world/article/358299-raketa-koreya-ssha-yaponiya-kndr-tramp
+WebArticleParserCLI.exe -c webarticleparser.ini -a https://russian.rt.com/russia/news/358337-sk-proverka-gibel-devochki
+WebArticleParserCLI.exe -c webarticleparser.ini -a https://www.gazeta.ru/lifestyle/style/2017/02/a_10521767.shtml
+WebArticleParserCLI.exe -c webarticleparser.ini -a http://www.vedomosti.ru/realty/articles/2017/02/11/677217-moskva-zarabotala-na-parkovkah
